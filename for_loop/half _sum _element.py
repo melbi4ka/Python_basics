@@ -15,8 +15,3 @@ else:
     print("No")
     sum_others = number_sum - max_num
     print(f"Diff = {abs(max_num - sum_others)}")
-
-
-
-
-
