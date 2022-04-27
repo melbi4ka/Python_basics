@@ -18,9 +18,3 @@ if total_sum >= laundry_price:
     print(f"Yes! {dif:.2f}")
 else:
     print(f"No! {dif:.2f}")
-
-
-
-
-
-
