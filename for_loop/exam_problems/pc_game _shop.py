@@ -24,12 +24,3 @@ print(f"Hearthstone - {hearthstone_percent:.2f}%")
 print(f"Fornite - {fornite_percent:.2f}%")
 print(f"Overwatch - {overwatch_percent:.2f}%")
 print(f"Others - {other_percent:.2f}%")
-
-
-
-
-
-
-
-
-
