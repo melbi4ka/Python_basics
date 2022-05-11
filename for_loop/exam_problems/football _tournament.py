@@ -32,13 +32,3 @@ if is_play:
     print(f"Win rate: {w_counter / all_counter * 100:.2f}%")
 else:
     print(f"{name} hasn't played any games during this season.")
-
-
-
-
-
-
-
-
-
-
