@@ -11,9 +11,3 @@ if play_time < 30000:
 else:
     print(f"Tom will run away")
     print(f"{time_difference_hours} hours and {time_difference_minutes} minutes more for play")
-
-
-
-
-
-
