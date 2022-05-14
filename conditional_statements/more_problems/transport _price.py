@@ -16,11 +16,3 @@ if type_travel == "night":
     else:
         travel_sum = kilometers * 0.06
 print(f"{travel_sum:.2f}")
-
-
-
-
-
-
-
-
