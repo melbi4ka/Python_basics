@@ -16,9 +16,5 @@ for num in range(1, days_of_work+1):
         treated_patience += doctors
         untreated_patience += num_patience - doctors
 
-
-
 print(f"Treated patients: {treated_patience}.")
 print(f"Untreated patients: {untreated_patience}.")
-
-
